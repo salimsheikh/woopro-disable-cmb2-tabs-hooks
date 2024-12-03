@@ -1,0 +1,2 @@
+ # Disable CMB2 Tabs Hooks
+ This plugin disables specific hooks added by the CMB2_Tabs class, such as \`before_form\`, \`opening_div\`, and \`render_nav\`, to prevent unwanted functionality in the gamipress tools. The hooks are added by Netbase Framework plugin.
